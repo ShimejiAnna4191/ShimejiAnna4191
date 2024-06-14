@@ -1,6 +1,5 @@
-<p align="center">
-    <h1>About myself</h1>
-</p>
+<h1 align="center">About myself</h1>
+
 
 
 
