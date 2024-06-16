@@ -8,3 +8,5 @@
   </tr>
     <th>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShimejiAnna4191&show_icons=true&theme=dracula)</th>
 </table>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShimejiAnna4191&show_icons=true&theme=dracula)
