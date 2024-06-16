@@ -1,6 +1,6 @@
 <h1 align="center">About myself</h1>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ShimejiAnna4191">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShimejiAnna4191&theme=buefy" />
 </a>
