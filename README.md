@@ -16,3 +16,17 @@ I have a dream of becoming a content creator as a writer
 </div>
 <br>
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ShimejiAnna4191&theme=github" alt="ShimejiAnna4191" width=99.8% /></a>
+
+---
+## Some language i've use
+
+<div class="d-block">
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Langs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShimejiAnna4191&theme=tokyonight" alt="ShimejiAnna4191" width=48% align=left/></a>
+</div>
+
+---       
+
+### Some fact about me      
+Actually my name is not Anna but I will keep this name for some reasons related to motivation and good sleep            
+
+I have the personality of a kid, well bc i'm a kid
