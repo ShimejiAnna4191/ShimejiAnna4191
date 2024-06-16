@@ -2,5 +2,5 @@
 
 
 <a href="https://github.com/ShimejiAnna4191">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShimejiAnna4191&theme=buefy" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShimejiAnna4191&theme=buefy" />
 </a>
