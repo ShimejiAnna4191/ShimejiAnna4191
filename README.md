@@ -3,6 +3,6 @@
 
 <table style="width:100%">
   <tr>
-    <th align="center">Skill</th>
+    <th>Skill</th>
     <th>contribute</th>
 </table>
