@@ -9,3 +9,10 @@ I'm also quite interested in computer science and want to play around and make t
 
 I have a dream of becoming a content creator as a writer 
 
+
+<div class="d-block"> 
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.vercel.app/api?username=ShimejiAnna4191" alt="ShimejiAnna4191" width=48.7% align=left /></a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Github Readme Streak Stats"><img src="https://streak-stats.demolab.com/?user=ShimejiAnna4191" alt="ShimejiAnna4191" width=48.7% /></a> 
+</div>
+<br>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710" alt="ShimejiAnna4191" width=99.8% /></a>
