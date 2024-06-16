@@ -11,7 +11,7 @@
 </table>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShimejiAnna4191&repo=github-readme-stats&theme=buefy" />
+  <img align="center" [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShimejiAnna4191)](https://github.com/anuraghazra/github-readme-stats)" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShimejiAnna4191&repo=anuraghazra.github.io&theme=buefy" />
