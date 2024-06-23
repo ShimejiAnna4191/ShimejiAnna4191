@@ -32,3 +32,5 @@ Actually my name is not Anna but I will keep this name for some reasons related 
 I have the personality of a kid, well bc i'm a kid
 
 Sometimes I'm curious so don't be shy if I ask too many questions
+
+I disagree with chatGPT, well I just consider it as a search engine
