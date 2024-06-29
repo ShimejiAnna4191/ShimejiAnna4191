@@ -9,7 +9,7 @@ I'm also quite interested in computer science and want to play around and make t
 
 I have a dream of becoming a content creator as a writer 
 
-
+## Statistical tables
 <div class="d-block"> 
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.vercel.app/api?username=ShimejiAnna4191&theme=tokyonight" alt="ShimejiAnvàna4191" width=46.7% align="center" /></a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Github Readme Streak Stats"><img src="https://streak-stats.demolab.com/?user=ShimejiAnna4191&theme=tokyonight" alt="ShimejiAnna4191" width=51.1% align="center"/></a> 
