@@ -8,7 +8,7 @@ I also quite enjoy content about anime, music and games, sometimes I also like a
 
 I'm also quite interested in computer science and want to play around and make things around it, that why I decided to go to github
 
-I have a dream of becoming a content creator as a writer 
+I have a dream of become a philosopher
 
 ## Statistical tables
 <div class="d-block"> 
